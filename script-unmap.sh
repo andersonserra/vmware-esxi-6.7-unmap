@@ -2,7 +2,7 @@
 # AUTOR: ANDERSON SERRA
 # Contact: anderson.silva.serra@gmail.com
 # DATA: 09/02/2022
-# WORK version: VMware ESXi 6.7
+# ESXi version: VMware ESXi 6.7
 # Instagram: @awksolutions
 #
 # Description:
