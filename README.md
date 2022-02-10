@@ -10,10 +10,10 @@ Description:
 <br>
 <br>Cmd options:
 <br>
-<br>-n|--reclaim-unit=<long>
+<br>-n |--reclaim-unit=<long>
 <br>
 <br>                        Number of VMFS blocks that should be unmapped per iteration.
-<br>  -l|--volume-label=<str>
+<br>-l |--volume-label=<str>
 <br>                        The label of the VMFS volume to unmap the free blocks.
-<br>  -u|--volume-uuid=<str>
+<br>-u |--volume-uuid=<str>
 <br>                        The uuid of the VMFS volume to unmap the free blocks.
